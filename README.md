@@ -1,0 +1,2 @@
+# SnapMap
+Small Project :)
